@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jafar Iqbal Choudhury aka @Jafar-128bit
+- 👀 I’m interested in Programming, Robotics, Aerospace, IOTs etc.
+- 🌱 I’m currently learning Statistics, Backend Engineering, Control System with MATLAB.
+- 💞️ I’m looking to collaborate on Node Js with C++ and Designing of Model Rockets (Control Systems and All).
+- 📫 How to reach me, through "Heart", I mean you need to have Psychic Ability.
