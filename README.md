@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jafar Iqbal Choudhury aka @Jafar-128bit
+- 👋 Hi, I’m Jafar Iqbal Choudhury aka @Jafar-128bit.
 - 👀 I’m interested in Programming, Robotics, Aerospace, IOTs etc.
-- 🌱 I’m currently learning Statistics, Backend Engineering, Control System with MATLAB.
-- 💞️ I’m looking to collaborate on Node Js with C++ and Designing of Model Rockets (Control Systems and All).
-- 📫 How to reach me, through "Heart", I mean you need to have Psychic Ability.
+- 🌱 I’m currently learning Backend Engineering with Node Js and C++.
+- 💞️ I’m looking to collaborate on Node Js with C++ or in Developing Robust API Code Generator.
+- 📫 How to reach me, through my Email(Work) - 5nejevmufepglsyhlyvc0kqemp0gsq - it's chiphered the CODE(or say KEY) is -> [6,7,5,4,8] Got it! ( Hint - 300(Movie) );
