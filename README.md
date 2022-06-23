@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jafar Iqbal Choudhury aka @Jafar-128bit.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Backend Engineering with Node Js and C++.
-- 💞️ I’m looking to collaborate on Node Js with C++ or in Developing Robust API Code Generator.
-- 📫 How to reach me, through my Email(Work) - 5nejevmufepglsyhlyvc0kqemp0gsq - it's chiphered the CODE(or say KEY) is -> [6,7,5,4,8] Got it! ( Hint - 300(Movie) );
+- 💞️ I’m looking to collaborate on Node Js with C++.
