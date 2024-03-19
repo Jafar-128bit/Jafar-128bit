@@ -82,9 +82,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jafar-128bit/Jafar-128bit/output/snake.svg" alt="Snake animation" />
-
-###
